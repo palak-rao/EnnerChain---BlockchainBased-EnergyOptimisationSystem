@@ -1,4 +1,4 @@
-Project Name: Blockchain-Based Smart Energy System
+CProject Name: Blockchain-Based Smart Energy System
 
 Description:
 This project is a smart energy management system that uses blockchain technology.
@@ -19,7 +19,7 @@ Features :
 
 How to Run:
 1. Download the project
-2. Open  blockchain-energy.html in your browser
+2. Open  EnnerChain -Blockchain Based.html in your browser
 3. Enter energy demand
 4. Click submit and mine block
 
