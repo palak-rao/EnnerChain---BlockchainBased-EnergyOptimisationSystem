@@ -19,7 +19,7 @@ Features :
 
 How to Run:
 1. Download the project
-2. Open  in your browser
+2. Open  blockchain-energy.html in your browser
 3. Enter energy demand
 4. Click submit and mine block
 
